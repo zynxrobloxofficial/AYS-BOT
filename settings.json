@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AYSKINGDOM.aternos.me",
-    "port": 25767,
+    "ip": "JusticeMC.aternos.me",
+    "port": 24601,
     "version": "1.20.1"
   },
   "position": {
@@ -65,7 +65,7 @@
     "avoidMobs": false,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
